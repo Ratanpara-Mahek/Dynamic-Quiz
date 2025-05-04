@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QuizOnline</string>
+    <string name="time_format">%s minutes</string>
+</resources>

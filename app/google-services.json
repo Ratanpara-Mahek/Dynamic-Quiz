@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473830716437",
+    "project_id": "quizonline-cp",
+    "storage_bucket": "quizonline-cp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473830716437:android:5804b002714d358db8ca1c",
+        "android_client_info": {
+          "package_name": "np.com.bimalkafle.quizonline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2PhNaX6pkrX7DkEiwPcDkeJTGLx2Vjwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
